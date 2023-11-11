@@ -1,8 +1,8 @@
 /*
  * PWM_Drawer.c
  *
- * Created: 12/7/2021 12:05:40 PM
- *  Author: Shaimaa K. El-Baklish
+ * Created: 12/7/2022 12:05:40 PM
+ *  Author: GAZAR
  */ 
 
 #include "PWM_Drawer.h"
