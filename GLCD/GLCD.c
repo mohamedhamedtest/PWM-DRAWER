@@ -1,8 +1,8 @@
 /*
  * GLCD.c
  *
- * Created: 12/7/2021 3:03:18 PM
- *  Author: Shaimaa K. El-Baklish
+ * Created: 12/7/2022 3:03:18 PM
+ *  Author: GAZAR
  */ 
 
 #include "GLCD.h"
