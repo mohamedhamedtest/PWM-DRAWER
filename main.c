@@ -1,8 +1,8 @@
 /*
  * main.c
  *
- * Created: 11/29/2021 4:13:59 PM
- *  Author: Shaimaa K. El-Baklish
+ * Created: 11/29/2022 4:13:59 PM
+ *  Author: GAZAR
  */ 
 
 #include "LIB/ATmega32A_Config.h"
